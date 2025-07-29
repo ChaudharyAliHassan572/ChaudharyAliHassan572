@@ -22,7 +22,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Generate snake files with glowing orange color
+      # Generate snake animation with glowing orange color
       - name: Generate snake game
         uses: Platane/snk@v3
         with:
@@ -36,7 +36,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Push the content of <build_dir> to a branch
+      # Push the generated files to the output branch
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
