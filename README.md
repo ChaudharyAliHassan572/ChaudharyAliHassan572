@@ -350,7 +350,7 @@ print(ali.current_mission())
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihassan572/)
 
 [![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&labelColor=000000)](mailto:chaudharyalihassan572@gmail.com)
-[![Phone](https://img.shields.io/badge/WhatsApp-FF0000?style=for-the-badge&logo=whatsapp&labelColor=000000)]
+[![Phone](https://img.shields.io/badge/WhatsApp-FF0000?style=for-the-badge&logo=whatsapp&labelColor=000000)(https://wa.me/9231933333)]
 
 ### 🌟 **"Let's Build Something Revolutionary Together!"** 🌟
 
