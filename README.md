@@ -14,7 +14,8 @@
 
 <!-- WORKING Snake Animation - Multiple Options -->
 <div align="center">
-  
+  ![Snake animation](https://github.com/ChaudharyAliHassan572/YOUR-REPO-NAME/blob/output/dist/ocean.gif?raw=true)
+
 ## 🐍 **Contribution Snake**
 
 <!-- Primary Snake Animation (Platane's SNK - Most Reliable) -->
