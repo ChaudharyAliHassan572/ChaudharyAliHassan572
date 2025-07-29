@@ -1,9 +1,9 @@
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ali%20Hassan&fontSize=90&fontAlignY=38&animation=twinkling&desc=Architecting%20Tomorrow's%20Digital%20Solutions&descAlignY=51&descAlign=62)</div>
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=300&section=header&text=Ali%20Hassan&fontSize=90&fontAlignY=38&animation=twinkling&desc=Architecting%20Tomorrow's%20Digital%20Solutions&descAlignY=51&descAlign=62)</div>
 
 <div align="center">
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=140&lines=🚀+Full-Stack+Engineer+%7C+AI+Innovator;🏆+Competitive+Programming+Champion;💡+Building+Scalable+Enterprise+Solutions;🌟+Welcome+to+My+Digital+Universe!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=800&height=140&lines=🚀+Full-Stack+Engineer+%7C+AI+Innovator;🏆+Competitive+Programming+Champion;💡+Building+Scalable+Enterprise+Solutions;🌟+Welcome+to+My+Digital+Universe!" alt="Typing SVG" />
 
 <!-- Matrix Rain Effect -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -257,20 +257,20 @@ Status: "Final Year Project Success"
 
 <div align="center">
 
-<!-- Real GitHub Stats Cards with Enhanced Styling -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChaudharyAliHassan572&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Ali's%20GitHub%20Stats&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+<!-- GitHub Stats Cards with Glowing Red and Black Theme -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChaudharyAliHassan572&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Ali's%20GitHub%20Stats&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" />
 
-<!-- Real Language Stats with Better Accuracy -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaudharyAliHassan572&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&exclude_repo=github-readme-stats&size_weight=0.5&count_weight=0.5" />
+<!-- Language Stats with Glowing Red and Black Theme -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaudharyAliHassan572&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&langs_count=8&exclude_repo=github-readme-stats&size_weight=0.5&count_weight=0.5" />
 
-<!-- GitHub Streak with Real Data -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaudharyAliHassan572&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" />
+<!-- GitHub Streak with Glowing Red and Black Theme -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaudharyAliHassan572&theme=radical&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF" />
 
-<!-- Activity Graph with Real Contributions -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaudharyAliHassan572&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
+<!-- Activity Graph with Glowing Red and Black Theme -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaudharyAliHassan572&theme=radical&hide_border=true&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF" />
 
-<!-- Trophy Collection -->
-<img src="https://github-profile-trophy.vercel.app/?username=ChaudharyAliHassan572&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=15&margin-w=5" />
+<!-- Trophy Collection with Glowing Red and Black Theme -->
+<img src="https://github-profile-trophy.vercel.app/?username=ChaudharyAliHassan572&theme=radical&no-frame=true&row=1&column=7&margin-h=15&margin-w=5" />
 
 </div>
 
@@ -351,9 +351,9 @@ print(ali.current_mission())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/alihassan572/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:chaudharyalihassan4@gmail.com)
-[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/923303097272)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/alihassan572/)
+[![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:chaudharyalihassan4@gmail.com)
+[![Phone](https://img.shields.io/badge/WhatsApp-FF0000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](https://wa.me/923303097272)
 
 ### 🌟 **"Let's Build Something Revolutionary Together!"** 🌟
 
@@ -399,9 +399,9 @@ print(ali.current_mission())
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20"> **"The future belongs to those who code it!"** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ChaudharyAliHassan572&style=for-the-badge&color=blueviolet&animated=true)
-![Followers](https://img.shields.io/github/followers/ChaudharyAliHassan572?style=for-the-badge&color=orange&labelColor=black)
-![Stars](https://img.shields.io/github/stars/ChaudharyAliHassan572?style=for-the-badge&color=yellow&labelColor=black)
+![Profile Views](https://komarev.com/ghpvc/?username=ChaudharyAliHassan572&style=for-the-badge&color=FF0000&animated=true)
+![Followers](https://img.shields.io/github/followers/ChaudharyAliHassan572?style=for-the-badge&color=FF0000&labelColor=000000)
+![Stars](https://img.shields.io/github/stars/ChaudharyAliHassan572?style=for-the-badge&color=FF0000&labelColor=000000)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -413,4 +413,4 @@ print(ali.current_mission())
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=footer&animation=twinkling)
