@@ -13,8 +13,8 @@
 ---
 
 <!-- WORKING Snake Animation - Multiple Options -->
+<h3 align="center">🐍 Contribution Snake</h3>
 <div align="center">
-## 🐍 **Contribution Snake**
 
 <!-- Primary Snake Animation (Platane's SNK - Most Reliable) -->
 <picture>
@@ -22,17 +22,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChaudharyAliHassan572/ChaudharyAliHassan572/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChaudharyAliHassan572/ChaudharyAliHassan572/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!-- Alternative Snake Animation (Backup) -->
-<!-- 
-<img src="https://github.com/ChaudharyAliHassan572/ChaudharyAliHassan572/raw/output/snake.svg" alt="Snake animation" />
--->
-
-<!-- If both fail, cool alternative -->
-<!--
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="800">
--->
-
 </div>
 
 ---
