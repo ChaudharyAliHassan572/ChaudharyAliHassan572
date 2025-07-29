@@ -56,7 +56,7 @@
 ```ascii
 ╔═══════════════════════════════════════════════════════╗
 ║  🎓 CUST University | Software Engineering | 3.93 CGPA ║
-║  🏆 National Rank: 31st Position in Pakistan (2023)   ║
+║  🏆 ICPC Rank:      | 31st Position in Pakistan (2023) ║
 ║  🥇 1st Position: Inter-Departmental FYP (ETL Online)  ║
 ║  💼 Full-Stack Developer | AI Engineer | Team Leader   ║
 ║  🌟 President of AICP Society | 25+ Events Organized   ║
@@ -80,17 +80,15 @@ timeline
     title Professional Journey Timeline
     
     2022 : Competitive Programming Start
-         : 🏆 92nd National Position
+         : 🏆 92nd National ICPC Position
          
     2023 : Major Breakthrough
-         : 🥇 31st Pakistan Position
+         : 🥇 31st Pakistan ICPC Position
          : 📊 Data Science Internship (Oasis)
          
     2024 : Career Expansion & Major Wins
-         : 🏅 GIK Onsite Competition
+         : 🏅 GIK ICPC Onsite Competition
          : 🥇 1st Position FYP Competition (ETL Online)
-         : ⚙️ Backend Development (MFSYS)
-         : 💻 Software Engineering (LitGrey)
          
     Present : Leadership & Innovation
             : 🚀 Full-Stack Mastery
@@ -213,7 +211,7 @@ Technology Stack:
 
 ```yaml
 Innovation Level: "🌟 Revolutionary"
-Technology: "Flask + PyTorch + Explainable AI"
+Technology: "Flask + PyTorch + Explainable AI + GradCam + Lime + Shap + Captum + Superpoint + Fpdf + Pandas + Numpy + Scikit-Learn + Seaborn + Tensorflow"
 Impact: "Research-grade AI interpretability"
 Status: "Final Year Project Success"
 ```
@@ -222,8 +220,6 @@ Status: "Final Year Project Success"
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284175-0b79e75a-c5f8-46c9-8c3b-2b6c0e56c0f0.gif" width="200">
 </div>
-
-**🔐 Cybersecurity Excellence**
 
 ---
 
@@ -240,10 +236,10 @@ Status: "Final Year Project Success"
 | 🗓️ **Year** | 🏆 **Achievement** | 🎯 **Rank** | 🌟 **Status** |
 |-------------|-------------------|-------------|---------------|
 | **2024** | 🥇 **Inter-Departmental FYP** | **1st Position** | 👑 **CHAMPION** |
-| **2024** | 🏆 CUST HACKATHON | **Winner** | 👑 **CHAMPION** |
-| **2024** | ⚡ GIK Onsite Competition | Finalist | 🔥 **ELITE** |
-| **2023** | 🇵🇰 **NATIONAL RANKING** | **31st in Pakistan** | 🌟 **LEGENDARY** |
-| **2022** | 🚀 National Competition | 92nd Position | 💎 **RISING STAR** |
+| **2024** | 🏆 CUST HACKATHON | **Participant** | 👑 **CHAMPION** |
+| **2024** | ⚡ GIK Onsite Competition | participant | 🔥 **ELITE** |
+| **2023** | 🇵🇰 **NATIONAL ICPC RANKING 2023** | **31st in Pakistan** | 🌟 **LEGENDARY** |
+| **2022** | 🚀 National ICPC Competition 2022 | 92nd Position | 💎 **RISING STAR** |
 
 </div>
 
@@ -291,7 +287,7 @@ Status: "Final Year Project Success"
 │  🎯 ACHIEVEMENTS UNLOCKED                       │
 ├─────────────────────────────────────────────────┤
 │  🥇 1st Position FYP Competition (ETL Online)   │
-│  🏆 31st National Position in Pakistan          │
+│  🏆 31st National Position in ICPC Pakistan     │
 │  📅 25+ Premium Events Organized               │
 │  🤝 Ambassador of 6+ Tech Companies            │
 │  🌍 Built Thriving Tech Community              │
