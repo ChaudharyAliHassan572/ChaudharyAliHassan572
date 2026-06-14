@@ -14,9 +14,7 @@
 
 # 👨‍💻 About Me
 
-I'm a **Data Engineer** who turns raw, messy operational data into clean, well-modeled, decision-ready systems. Over the past year I've delivered for enterprise U.S.-based clients across multi-environment release workflows (INT → DEV → QA → UAT → Production), owning data modeling and schema design, re-engineering regulatory report processing for accuracy and throughput, and building Power BI reports and dashboards leaders use to make decisions.
-
-Data modeling is where I start, working through conceptual, logical, and physical models with deliberate trade-offs rather than defaults. From there it's SQL, schema design, and data transformation (ETL/ELT) to keep data accurate and trustworthy downstream, treating data quality as testable and every table, feed, and report as a contract its consumers depend on.
+I am a **Data Engineer** passionate about building modern data platforms, scalable pipelines, and analytics ecosystems that transform raw enterprise data into trusted business intelligence.
 
 Currently working on enterprise-scale solutions involving:
 
@@ -36,7 +34,7 @@ Currently working on enterprise-scale solutions involving:
 
 ```text
 ╔══════════════════════════════════════════════════════╗
-║ 👨‍💻 Data Engineer @ Alphabridge                    ║
+║ 👨‍💻 Data Engineer                                  ║
 ║ ☁️ Databricks • Snowflake • DBT • Kafka            ║
 ║ 🏗️ Data Architecture & Modeling                    ║
 ║ 📊 Enterprise Analytics Platforms                  ║
@@ -53,19 +51,19 @@ timeline
     title Data Engineering Journey
 
     2023 : Intern Data Engineer
-         : API Integration Connectors
+         : API Integrations
          : Data Validation
 
     2024 : Associate Data Engineer
          : 200+ Production Pipelines
-         : Multi-Source Data Integration
+         : Cross-Platform Data Integration
 
     2025 : Data Engineer
-         : HRMS & Healthcare Platforms
+         : Healthcare Data Platforms
          : Data Quality Frameworks
          : CI/CD Automation
 
-    2026 : Data Engineer @ Alphabridge
+    2026 : Data Engineer
          : Databricks
          : Snowflake
          : Kafka
@@ -90,7 +88,7 @@ timeline
 - Star Schema
 - Snowflake Schema
 - Galaxy Schema
-- StarFlake Schema
+- Data Vault Concepts
 - Data Marts
 - Medallion Architecture
 
@@ -98,7 +96,6 @@ timeline
 
 - Power BI
 - SSRS
-- SSIS
 - KPI Design
 - Executive Dashboards
 - Semantic Models
@@ -136,7 +133,7 @@ Reporting:
   - Power BI
 
 Scale:
-  - 10M+ SAP Records Monthly
+  - 10M+ Records Monthly
 
 Architecture:
   - Bronze
@@ -155,7 +152,7 @@ Technology:
   - Snowflake
 
 Capabilities:
-  - Event-Driven Data Processing
+  - Event Streaming
   - Near Real-Time Analytics
   - Data Quality Validation
   - Operational Monitoring
@@ -172,7 +169,7 @@ Technology:
   - Jenkins
 
 Features:
-  - Claims Processing (FROI/SROI)
+  - Claims Processing
   - Regulatory Reporting
   - Data Validation
   - Automated Deployments
@@ -196,13 +193,13 @@ Features:
 
 # 🏆 Career Highlights
 
-- Built and supported 200+ production data pipelines feeding a unified scoring platform
-- Designed enterprise-scale dimensional models (Star, Galaxy, StarFlake, Snowflake)
-- Implemented Bronze-Silver-Gold architecture processing 10M+ SAP records monthly
-- Delivered 15+ Power BI executive dashboards, reducing manual reporting by 80%
-- Developed near real-time Kafka event-driven integrations
-- Optimized Snowflake query execution times by 45%
-- Worked across SAP, Healthcare, HRMS, and Social Analytics domains
+- Built and supported 200+ production data pipelines
+- Designed enterprise-scale dimensional models
+- Implemented Bronze-Silver-Gold architectures
+- Delivered Power BI executive dashboards
+- Developed real-time Kafka integrations
+- Optimized Snowflake workloads by 45%
+- Worked across Healthcare, SAP, HRMS, and Analytics domains
 
 ---
 
